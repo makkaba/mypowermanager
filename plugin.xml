@@ -7,8 +7,8 @@
     <license>Apache 2.0</license>
     <keywords>cordova,powermanager</keywords>
 
-    <js-module src="www/powermanagement.js" name="device">
-        <clobbers target="window.powerManagement" />
+    <js-module src="www/mypowermanager.js" name="device">
+        <clobbers target="window.myPowerManager" />
     </js-module>
 
     <!-- wp7 -->
